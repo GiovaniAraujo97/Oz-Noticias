@@ -1,0 +1,19 @@
+$primary: #15212e;
+
+.home {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    background-color: $primary;
+    width: 100%;
+    height: 100vh;
+  }
+
+  .container-home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1a1a;
+    padding: 20px;
+  }
+  
